@@ -21,7 +21,6 @@ public class sheets {
         System.out.println("Alive: " + isAlive);
         System.out.println("Inventory: \n" + "-" + inventory[0] + "\n-" + inventory[1] + "\n-" + inventory[2]);
 
-
     }
     static void rival() {
         String name = "Ame";
